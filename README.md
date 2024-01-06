@@ -12,7 +12,7 @@ Dhash, short for "difference hash," is a type of perceptual hashing algorithm us
 2. Run the executable file (`Duplicated_Remover_GUI.exe`) on Windows or execute the Python script directly (`Duplicated_Remover_GUI.py` on other platforms).
 3. The GUI will prompt you to provide the source folder od the images stored.
 4. It will automatically hand the task after the source specified by the user
-5. For double check; click the "Submit" button to find and delete duplicated image file(s).
+5. For double-check; click the "Submit" button to find and delete duplicated image file(s).
 6. A success message will be displayed once all files are successfully processed.
 
 ## Screenshots
